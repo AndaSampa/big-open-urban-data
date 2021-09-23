@@ -12,7 +12,7 @@ Essa disciplina tem como objetivos: (i) Introduzir conceitos e fomentar discuss�
 
 ## Aula-a-aula
 
-### Aula 0: Agenda, formação do grupo e proposta [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/feromes/geotecnologias-para-cidades-complexas/HEAD?filepath=https%3A%2F%2Fgithub.com%2Fferomes%2Fgeotecnologias-para-cidades-complexas%2Fblob%2Fmain%2FAula%25200%2520-%2520Agenda%252C%2520forma%25C3%25A7%25C3%25A3o%2520do%2520grupo%2520e%2520proposta.ipynb)
+### Aula 0: Agenda, formação do grupo e proposta
 
 * Ementa
 * Agenda
