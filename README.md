@@ -10,20 +10,22 @@ A cidade de São Paulo, mesmo quando comparada com grandes cidades na Europa ou 
 
 ### Aula 0: Agenda, formação do grupo e da proposta
 
+Apresentação: https://andasampa.github.io/big-open-urban-data/aula0.slides.html#/
+
 * Ementa
 * Agenda
 * Bases pedagógicas desta disciplina
 * As disciplinas envolvidas
-* Apresentacao dos trabalhos do Professor
-  * Qualificacao
+* Apresentacao dos meu trabalhos
+  * Exame de Qualificacao Mestrado/Doutorado
   * TRabalhos pregressos
   * TRabalhos em desenvolvimento
   * Interesses e visão de mundo
 * Interlocução para formacao da proposta:
   * As disciplinas envolvidas
-  * Softwares
+  * Softwares, Livres
   * Contribuicões em trabalhos
-* Proposta de trabalho prático
+* Proposta de trabalho prático?
 * Gerando rede: Validação, aplicação ou experimentação do aprendizado em formato digital público e aberto com licença livre
 
 ### Aula 1: SmartCity ou SmartCitzen
@@ -68,7 +70,7 @@ A cidade de São Paulo, mesmo quando comparada com grandes cidades na Europa ou 
 
 ## Bibliografia
 
-Disponivel no Zotero: https://www.zotero.org/groups/4432862/urbanology
+Disponivel no Zotero: https://www.zotero.org/groups/bigopenurbandata
 
 ## Produçao coletiva nas aulas
 
