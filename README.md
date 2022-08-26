@@ -10,7 +10,7 @@ A cidade de São Paulo, mesmo quando comparada com grandes cidades na Europa ou 
 
 ### Aula 0: Agenda, formação do grupo e da proposta
 
-Apresentação: https://andasampa.github.io/big-open-urban-data/aula0.slides.html#/
+Apresentação: [Aula 0](https://andasampa.github.io/big-open-urban-data/aula0.slides.html#/)
 
 * Ementa
 * Agenda
@@ -29,6 +29,8 @@ Apresentação: https://andasampa.github.io/big-open-urban-data/aula0.slides.htm
 * Gerando rede: Validação, aplicação ou experimentação do aprendizado em formato digital público e aberto com licença livre
 
 ### Aula 1: SmartCity ou SmartCitzen
+
+Apresentação: [Aula 1](https://andasampa.github.io/big-open-urban-data/aula1.slides.html#/)
 
 * Da onde vem a inteligência da cidade
 * A Lei de acesso à informação
