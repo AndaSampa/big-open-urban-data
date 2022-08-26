@@ -40,6 +40,8 @@ Apresentação: [Aula 1](https://andasampa.github.io/big-open-urban-data/aula1.s
 
 ### Aula2: A complexidade na cidade, abordagem morfológica 
 
+Apresentação: [Aula 2](https://andasampa.github.io/big-open-urban-data/aula2.slides.html#/)
+
 * A complexidade da Cidade
 * urbanismo vs urbanidade vs urbanologia ??????
 * urbanista vs urbanólogo
