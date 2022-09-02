@@ -53,6 +53,8 @@ Apresentação: [Aula 2](https://andasampa.github.io/big-open-urban-data/aula2.s
 
 ### Aula 3: A Natureza (Dimensão) espacial do dado
 
+Apresentação: [Aula 3](https://andasampa.github.io/big-open-urban-data/aula3.slides.html#/)
+
 * A forma da Terra
 * Cartografia, é tudo dado
 * Projeções são lindas!
