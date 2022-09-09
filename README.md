@@ -63,6 +63,8 @@ Apresentação: [Aula 3](https://andasampa.github.io/big-open-urban-data/aula3.s
 
 ### Aula 4: Um outro olhar, além da visão do pássaro
 
+Apresentação: [Aula 4](https://andasampa.github.io/big-open-urban-data/aula4.slides.html#/)
+
 * O fator de visão de céu
 * Sensoriamento Remoto
 * O Modelo digital de Superfície
