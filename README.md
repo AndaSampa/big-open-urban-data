@@ -73,7 +73,10 @@ Apresentação: [Aula 4](https://andasampa.github.io/big-open-urban-data/aula4.s
 
 ### Aula 5: Redes
 
-* Em desenvolvimento
+Apresentação: [Aula 5](https://andasampa.github.io/big-open-urban-data/aula5.slides.html#/)
+
+* APIs e Dados Abertos
+* Tertúlia
 
 ## Bibliografia
 
