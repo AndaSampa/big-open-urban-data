@@ -78,6 +78,12 @@ Apresentação: [Aula 5](https://andasampa.github.io/big-open-urban-data/aula5.s
 * APIs e Dados Abertos
 * Tertúlia
 
+### Aula graduação: Cidade Compacta, Cidade Diifusa
+
+
+Apresentação: [Cidade Compacta, Cidade Difusa](https://andasampa.github.io/big-open-urban-data/Aula-EC-Cidade-Compacta-Difusa.slides.html#/)
+
+
 ## Bibliografia
 
 Disponivel no Zotero: https://www.zotero.org/groups/bigopenurbandata
