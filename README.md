@@ -78,6 +78,10 @@ Apresentação: [Aula 5](https://andasampa.github.io/big-open-urban-data/aula5.s
 * APIs e Dados Abertos
 * Tertúlia
 
+### Atividade prática: Entre Lagos
+
+Cheatsheet (colinha): https://github.com/AndaSampa/big-open-urban-data/edit/main/README.md
+
 ### Aula graduação: Cidade Compacta, Cidade Diifusa
 
 
