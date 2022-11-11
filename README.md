@@ -80,7 +80,7 @@ Apresentação: [Aula 5](https://andasampa.github.io/big-open-urban-data/aula5.s
 
 ### Atividade prática: Entre Lagos
 
-Cheatsheet (colinha): https://github.com/AndaSampa/big-open-urban-data/edit/main/README.md
+Cheatsheet (colinha): https://github.com/AndaSampa/big-open-urban-data/blob/main/dados-atelie-2022.md
 
 ### Aula graduação: Cidade Compacta, Cidade Diifusa
 
