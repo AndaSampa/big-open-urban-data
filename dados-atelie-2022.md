@@ -4,7 +4,7 @@
 
 ## Legislação (#prescritivo)
 
-* Afinal a lei é (ou deveria ser) o resultado de um consenso coletivo
+* Afinal a lei é (ou deveria ser) o resultado de um consenso mínimo coletivo
 * GeoSampa (o Mapa e a Lei)
 * https://gestaourbana.prefeitura.sp.gov.br/marco-regulatorio/zoneamento/texto-da-lei/
 * Plano Ilustrado: https://gestaourbana.prefeitura.sp.gov.br/marco-regulatorio/plano-diretor/estrategias-ilustradas/
