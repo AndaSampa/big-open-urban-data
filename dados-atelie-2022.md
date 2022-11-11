@@ -49,7 +49,7 @@
 * Atendimento SP156
  * GeoSampa
 * OSM
- * Plugin QuckOSM
+ * Plugin QuckOSM do QGIS
 * Mappilary
   * https://www.mapillary.com/
 
