@@ -17,7 +17,7 @@ Apresentação: [Aula 0](https://andasampa.github.io/big-open-urban-data/aula0.s
 * Bases pedagógicas desta disciplina
 * As disciplinas envolvidas
 * Apresentacao dos meu trabalhos
-  * Exame de Qualificacao Mestrado/Doutorado
+  * Exame de Qualificacao Doutorado
   * TRabalhos pregressos
   * TRabalhos em desenvolvimento
   * Interesses e visão de mundo
@@ -26,7 +26,9 @@ Apresentação: [Aula 0](https://andasampa.github.io/big-open-urban-data/aula0.s
   * Softwares, Livres
   * Contribuicões em trabalhos
 * Proposta de trabalho prático?
-* Gerando rede: Validação, aplicação ou experimentação do aprendizado em formato digital público e aberto com licença livre
+* Gerando rede: 
+  * Validação, aplicação ou experimentação do aprendizado em formato digital público e aberto com licença livre
+  * Conversas de bar
 
 ### Aula 1: SmartCity ou SmartCitzen
 
@@ -48,7 +50,7 @@ Apresentação: [Aula 2](https://andasampa.github.io/big-open-urban-data/aula2.s
 * A complexidade enxerga diversidade
 * O oposto da complexidade
 * A complexidade do ponto de vista matemático
-* _Demonstração prática:_ O IPTU da cidade de São Paulo, Dash do IPTU
+* _Demonstração prática:_ O Painel de Dados CAdastrais da Cidade de São Paulo
 
 
 ### Aula 3: A Natureza (Dimensão) espacial do dado
@@ -69,13 +71,13 @@ Apresentação: [Aula 4](https://andasampa.github.io/big-open-urban-data/aula4.s
 * Sensoriamento Remoto
 * O Modelo digital de Superfície
 * Produtos derivados do LiDAR 3D
-* _Demonstração prática:_ Utilizando o LiDAR 3D de São Paulo
+* _Demonstração prática:_ Utilizando o LiDAR 3D de São Paulo, quantificando a informalidade
 
 ### Aula 5: Redes
 
 Apresentação: [Aula 5](https://andasampa.github.io/big-open-urban-data/aula5.slides.html#/)
 
-* APIs e Dados Abertos
+* Façam seus pedidos
 * Tertúlia
 
 ### Atividade prática: Entre Lagos
